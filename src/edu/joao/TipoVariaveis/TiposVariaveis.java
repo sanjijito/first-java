@@ -19,5 +19,5 @@ public class TiposVariaveis {
     //String
     String meuNome = "sanjijito";
 
-
+    
 }
